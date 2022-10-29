@@ -1,3 +1,3 @@
-# webs-lecture-react
+# webs-lecture-react-1
 
-https://webs-lecture-react.netlify.app
+[view my work](https://webs-lecture-react-1.netlify.app)
